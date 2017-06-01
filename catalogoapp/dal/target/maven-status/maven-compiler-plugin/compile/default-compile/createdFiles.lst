@@ -1,0 +1,9 @@
+com\ipartek\formacion\leire\dal\ProductoExistenteException.class
+com\ipartek\formacion\leire\dal\ProductosDALFactory.class
+com\ipartek\formacion\leire\dal\ProductosDALColeccion.class
+com\ipartek\formacion\leire\dal\UsuariosDAL.class
+com\ipartek\formacion\leire\dal\UsuarioYaExistenteDALException.class
+com\ipartek\formacion\leire\dal\ProductosDAL.class
+com\ipartek\formacion\leire\dal\DALFactory.class
+com\ipartek\formacion\leire\dal\UsuariosDALColeccion.class
+com\ipartek\formacion\leire\dal\DALException.class

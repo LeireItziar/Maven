@@ -1,0 +1,7 @@
+com\ipartek\formacion\leire\controladores\ProductosListadoServlet.class
+com\ipartek\formacion\leire\controladores\LoginServlet.class
+com\ipartek\formacion\leire\controladores\ProductosFormServlet.class
+com\ipartek\formacion\leire\listenerfilter\Log4jListener.class
+com\ipartek\formacion\leire\listenerfilter\ProductoAdminFilter.class
+com\ipartek\formacion\leire\controladores\ProductosCRUDServlet.class
+com\ipartek\formacion\leire\listenerfilter\InicioDALListener.class
